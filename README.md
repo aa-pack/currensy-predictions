@@ -1,1 +1,1 @@
-# currensy-predictions
+# Currensy Predictions
